@@ -1,0 +1,10 @@
+libXxf86misc.so.1:XF86MiscGetFilePaths
+libXxf86misc.so.1:XF86MiscGetKbdSettings
+libXxf86misc.so.1:XF86MiscGetMouseSettings
+libXxf86misc.so.1:XF86MiscPassMessage
+libXxf86misc.so.1:XF86MiscQueryExtension
+libXxf86misc.so.1:XF86MiscQueryVersion
+libXxf86misc.so.1:XF86MiscSetClientVersion
+libXxf86misc.so.1:XF86MiscSetGrabKeysState
+libXxf86misc.so.1:XF86MiscSetKbdSettings
+libXxf86misc.so.1:XF86MiscSetMouseSettings
