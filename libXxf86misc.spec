@@ -4,7 +4,7 @@
 #
 Name     : libXxf86misc
 Version  : 1.0.4
-Release  : 1
+Release  : 2
 URL      : https://www.x.org/releases/individual/lib/libXxf86misc-1.0.4.tar.gz
 Source0  : https://www.x.org/releases/individual/lib/libXxf86misc-1.0.4.tar.gz
 Summary  : XFree86 Misc Extension Library
